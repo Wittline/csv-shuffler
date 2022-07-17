@@ -1,5 +1,5 @@
 # csv-shuffler
-A tool to automatically Shuffle lines in a .csv files
+A tool to automatically Shuffle lines in .csv files
 
 ![image](https://user-images.githubusercontent.com/8701464/179423167-35b1780b-5aa3-46e4-ad19-eec4ca8ba820.png)
 
