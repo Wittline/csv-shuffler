@@ -14,7 +14,7 @@ class ShuffleCSV:
         self.batch_size = batch_size
 
 
-    def shuffle_csv(self):        
+    def shuffle_csv(self):    
 
         with open(self.input_file, mode="r", encoding = "ISO-8859-1") as file_obj:
             with mmap.mmap(file_obj.fileno(), length=0, access=mmap.ACCESS_READ) as file_map:
